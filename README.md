@@ -77,9 +77,12 @@ The framework includes comprehensive evaluation metrics:
 If you use this code in your research, please cite:
 
 ```
-@article{
+@article{pu2026breaking,
+  title={Breaking the Generator Barrier: Disentangled Representation for Generalizable {AI}-Text Detection},
+  author={Pu, Xiao and Cheng, Zepeng and Yuan, Lin and Wu, Yu and Bi, Xiuli},
+  journal={Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics},
+  year={2026}
 }
-
 ```
 
 
